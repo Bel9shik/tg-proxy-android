@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TG Proxy</string>
+    <string name="subtitle">Локальный прокси без VPS и Docker</string>
+    <string name="local_endpoint">127.0.0.1:1443 · MTProto/WSS</string>
+    <string name="configure_telegram">Настроить Telegram</string>
+    <string name="configure_telegram_description">Повторно открыть настройку локального прокси в Telegram</string>
+    <string name="add_quick_settings_tile">Добавить кнопку в шторку</string>
+    <string name="add_quick_settings_tile_description">Добавить переключатель TG Proxy в панель быстрых настроек</string>
+    <string name="quick_settings_tile_label">TG Proxy</string>
+    <string name="quick_settings_tile_on">Прокси включён</string>
+    <string name="quick_settings_tile_off">Прокси выключен</string>
+    <string name="quick_settings_tile_added">Кнопка TG Proxy добавлена в шторку</string>
+    <string name="quick_settings_tile_already_added">Кнопка уже есть в шторке</string>
+    <string name="quick_settings_tile_manual">Найдите TG Proxy в списке доступных кнопок и перетащите в шторку</string>
+    <string name="privacy_note">Трафик Telegram остаётся зашифрованным · локальный секрет уникален</string>
+    <string name="status_enabled">ПРОКСИ ВКЛЮЧЁН</string>
+    <string name="status_disabled">ПРОКСИ ВЫКЛЮЧЕН</string>
+    <string name="status_starting">ВКЛЮЧАЕМ…</string>
+    <string name="status_stopping">ВЫКЛЮЧАЕМ…</string>
+    <string name="tap_to_enable">Нажмите, чтобы включить</string>
+    <string name="tap_to_disable">Нажмите, чтобы выключить</string>
+    <string name="local_operation">Запускаем сервер прямо на телефоне</string>
+    <string name="notification_channel">Локальный Telegram-прокси</string>
+    <string name="notification_channel_description">Поддерживает работу локального прокси в фоне</string>
+    <string name="notification_starting">Запуск локального прокси…</string>
+    <string name="notification_recovering">Восстанавливаем прокси после сна…</string>
+    <string name="notification_running">Работает на 127.0.0.1:%1$d</string>
+    <string name="action_stop">Выключить</string>
+    <string name="error_proxy_start">Не удалось запустить локальный прокси</string>
+    <string name="error_title">Ошибка запуска</string>
+    <string name="proxy_stopped_toast">Локальный прокси остановлен</string>
+    <string name="telegram_missing_title">Telegram не найден</string>
+    <string name="telegram_missing_message">Установите Telegram и снова включите прокси.</string>
+</resources>

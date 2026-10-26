@@ -1,0 +1,26 @@
+.gradle/
+.idea/
+.kotlin/
+local.properties
+**/build/
+*.apk
+*.aab
+*.jks
+*.keystore
+keystore.properties
+*keystore*.properties
+*.p12
+*.pfx
+*.key
+.env
+.env.*
+*.log
+.DS_Store
+
+# Local device diagnostics and unrelated diagrams, not release sources.
+/docs/device-check-*.md
+/docs/stability-*.md
+/docs/battery-recovery-*.md
+/ensure.svg
+/levels.svg
+/statusChanged.svg
